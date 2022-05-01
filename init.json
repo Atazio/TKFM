@@ -1,0 +1,10 @@
+{
+  "version": "0.01",
+  "gameData": [
+    {
+      "name": "Tenkafuma",
+      "catalogUri": "https://raw.githubusercontent.com/Atazio/TKFM/addressables/data/StandaloneWindows64/catalog_2022.04.30.22.51.34.json",
+      "characterUri": "https://raw.githubusercontent.com/Atazio/TKFM/addressables/characters.json"
+    }
+  ]
+}
